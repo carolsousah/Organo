@@ -1,7 +1,7 @@
 ## Organo
 ###### Curso: Formação React da Alura + Oracle.
 
-O Organo é uma aplicação de organização de pessoas e times desenvolvida nos cursos React: desenvolvendo com JavaScript e React: como os componentes funcionam. É possível fazer a exclusão de colaboradores dos times, realizar a inclusão de novos colaboradores e também a crição de novos times.
+O **Organo** é uma aplicação de organização de pessoas e times desenvolvida nos cursos React: desenvolvendo com JavaScript e React: como os componentes funcionam. É possível fazer a exclusão de colaboradores dos times, realizar a inclusão de novos colaboradores e também a crição de novos times.
 
 ## Acesse a página web:
 
