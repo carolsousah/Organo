@@ -5,7 +5,7 @@ O Organo é uma aplicação de organização de pessoas e times desenvolvida nos
 
 ## Acesse a página web:
 
-Veja como ficou o projeto clicando [aqui ](https://organo-rose-six.vercel.app/). Você pode fazer alguns teste excluindo os cards dos colaboradores, adicionando novos cards de colaboradores e de times.
+Confira como ficou o projeto clicando [aqui ](https://organo-rose-six.vercel.app/). Você pode fazer alguns teste excluindo os cards dos colaboradores, adicionando novos cards de colaboradores e de times.
 
 ![image](https://github.com/user-attachments/assets/0c1f94af-ebdc-42cf-bd33-819d25bc851a)
 
