@@ -36,4 +36,3 @@ Confira como ficou o projeto clicando [aqui ](https://organo-rose-six.vercel.app
 * Componentização
 * Hooks (useState e useEffect)
 * Props
-* React MarkDown
